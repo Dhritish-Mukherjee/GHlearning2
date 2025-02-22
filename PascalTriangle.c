@@ -20,8 +20,9 @@ int main() {
             printf("%4d", C); 
             C = C * (i - k) / (k + 1); 
         }
+        
         printf("\n"); 
     }
     return 0;
-    
+
 }
