@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    
+
     int rows;
     scanf("%d", &rows);
 
@@ -23,4 +23,5 @@ int main() {
         printf("\n"); 
     }
     return 0;
+    
 }
